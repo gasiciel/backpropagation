@@ -1,4 +1,4 @@
-# Backpropagation - Implementacja
+# Backpropagation - implementacja
 
 Prosta implementacja sieci neuronowej z algorytmem propagacji wstecznej do klasyfikacji cyfr z zestawu danych MNIST. Projekt zawiera różne warianty implementacji algorytmu uczenia.
 
